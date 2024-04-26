@@ -1,0 +1,57 @@
+name: moonbowapp
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.3.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_svg: ^2.0.10+1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+  - assets/images/
+  - assets/images/Kolye1.png
+  - assets/images/Kolye2.png
+  - assets/images/Kolye3.png
+  - assets/images/Kolye4.png
+  - assets/images/Kolye5.png
+  - assets/images/Kolye6.png
+  - assets/images/Kolye7.png
+  - assets/images/Kolye8.png
+  - assets/images/Kolye9.png
+  - assets/images/Erkek1.png
+  - assets/images/Erkek9.png
+  - assets/images/Erkek2.png
+  - assets/images/Erkek3.png
+  - assets/images/Erkek4.png
+  - assets/images/Erkek5.png
+  - assets/images/Erkek6.png
+  - assets/images/Erkek7.png
+  - assets/images/Erkek8.png
+  - assets/images/Bileklik1.png
+  - assets/images/Bileklik2.png
+  - assets/images/Bileklik3.png
+  - assets/images/Bileklik4.png
+  - assets/images/Bileklik5.png
+  - assets/images/Bileklik6.png
+  - assets/images/bileklik7.png
+  - assets/images/Bileklik8.png
+  - assets/images/Bileklik9.png
+  
+
+
+           
+
+
+  
